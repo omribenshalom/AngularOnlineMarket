@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "62e265ce0ad167922fe9ec97"
+  },
+  "userId": 0,
+  "email": "admin@gmail.com",
+  "password": "fbc1744f34e9f731b1a6549eb646091ccbe6ffdfc5127cb23eb46468d494e6c90dbb7e6bb8e2ec0934b26cc934259d460a4733ca6724e3ae7ada8b6ccdee7a23",
+  "firstName": "admin",
+  "lastName": "nimda",
+  "city": "Tel Aviv",
+  "street": "Cerem",
+  "isAdmin": true
+},{
+  "_id": {
+    "$oid": "62e267350ad167922fe9ecb6"
+  },
+  "userId": 300725421,
+  "email": "omri@gmail.com",
+  "password": "3017eeb59819f1b2d4e5a8751a41ec68502404b507e7d0b579e394491de70155fdc58a32753f4560c8860a9b514f43135aaefee69bcb5ee17457a0932bb4ce28",
+  "firstName": "Omri",
+  "lastName": "Ben",
+  "city": "Haifa",
+  "street": "Dor",
+  "isAdmin": false
+},{
+  "_id": {
+    "$oid": "62efb0f091ab4992f47fb0e8"
+  },
+  "userId": 987987987,
+  "email": "yulia@gmail.com",
+  "password": "17cfd9e70e0e21f6de39dfe5d65a36b1f8539dbaac8c1098a96c0a78de53b0c3d6bc8196345a8b2d216a1392a3ff35bf230ed529bb406075f918fe68db9b40b8",
+  "firstName": "Yul",
+  "lastName": "Blu",
+  "city": "Haifa",
+  "street": "987987987",
+  "isAdmin": false
+},{
+  "_id": {
+    "$oid": "62f0e93855e70e87b94baaeb"
+  },
+  "userId": 654654654,
+  "email": "ori@gmail.com",
+  "password": "5369d5c1e6f42befc2107f47cea9384ad3c7ff82204b4b879ab64d3e4b2368ed74bccc5fcbb17d95a41dbcaebbb205ac2f8f2e926b4adacc4c96ab1f7b37119b",
+  "firstName": "ori",
+  "lastName": "bs",
+  "city": "Jerusalem",
+  "street": "yabale",
+  "isAdmin": false
+}]

@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "62ef6aef2f2a4e3e2aa83751"
+  },
+  "product_id": {
+    "$oid": "62ebde2741f25c610ab9569e"
+  },
+  "name": "Milk",
+  "price": 3,
+  "quantity": 3,
+  "cart_id": {
+    "$oid": "62ef6aea2f2a4e3e2aa8374a"
+  }
+},{
+  "_id": {
+    "$oid": "62ef6b842f2a4e3e2aa83776"
+  },
+  "product_id": {
+    "$oid": "62ebdee041f25c610ab956c2"
+  },
+  "name": "Bread",
+  "price": 1.5,
+  "quantity": 3,
+  "cart_id": {
+    "$oid": "62ef6aea2f2a4e3e2aa8374a"
+  }
+},{
+  "_id": {
+    "$oid": "62ef6b862f2a4e3e2aa83778"
+  },
+  "product_id": {
+    "$oid": "62ebde8441f25c610ab956b9"
+  },
+  "name": "Wine",
+  "price": 6.2,
+  "quantity": 2,
+  "cart_id": {
+    "$oid": "62ef6aea2f2a4e3e2aa8374a"
+  }
+},{
+  "_id": {
+    "$oid": "62ef6cca2f2a4e3e2aa83820"
+  },
+  "product_id": {
+    "$oid": "62ebde9841f25c610ab956bc"
+  },
+  "name": "Cheese",
+  "price": 2.2,
+  "quantity": 8,
+  "cart_id": {
+    "$oid": "62ef6aea2f2a4e3e2aa8374a"
+  }
+},{
+  "_id": {
+    "$oid": "62ef6ccd2f2a4e3e2aa83822"
+  },
+  "product_id": {
+    "$oid": "62ebded141f25c610ab956bf"
+  },
+  "name": "Beer Alexander",
+  "price": 3.3,
+  "quantity": 1,
+  "cart_id": {
+    "$oid": "62ef6aea2f2a4e3e2aa8374a"
+  }
+},{
+  "_id": {
+    "$oid": "62f0e8e055e70e87b94baae1"
+  },
+  "product_id": {
+    "$oid": "62ebde8441f25c610ab956b9"
+  },
+  "name": "Wine",
+  "price": 6.2,
+  "quantity": 3,
+  "cart_id": {
+    "$oid": "62f0e8db55e70e87b94baada"
+  }
+},{
+  "_id": {
+    "$oid": "62f0ee843dbc021c0031dcfe"
+  },
+  "product_id": {
+    "$oid": "62ebde5441f25c610ab956ad"
+  },
+  "name": "Honey",
+  "price": 12,
+  "quantity": 4,
+  "cart_id": {
+    "$oid": "62ef6aea2f2a4e3e2aa8374a"
+  }
+}]

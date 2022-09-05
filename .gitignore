@@ -1,0 +1,10 @@
+# git ignore files - 
+
+Backend/node_modules
+Backend/build
+
+Frontend/node_modules
+Frontend/.angular
+Frontend/dist
+
+Products IMAGES to upload

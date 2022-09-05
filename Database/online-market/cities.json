@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6297ad254b21a896d2a9fada"
+  },
+  "city": "Tel Aviv"
+},{
+  "_id": {
+    "$oid": "6297ad2e4b21a896d2a9fadc"
+  },
+  "city": "Haifa"
+},{
+  "_id": {
+    "$oid": "6297ad3d4b21a896d2a9fade"
+  },
+  "city": "Jerusalem"
+},{
+  "_id": {
+    "$oid": "6297ad4a4b21a896d2a9fae0"
+  },
+  "city": "Beer Sheva"
+},{
+  "_id": {
+    "$oid": "6297ad574b21a896d2a9fae2"
+  },
+  "city": "Eilat"
+},{
+  "_id": {
+    "$oid": "6297ad6d4b21a896d2a9fae4"
+  },
+  "city": "Qiryat Shmona"
+},{
+  "_id": {
+    "$oid": "6297ad894b21a896d2a9fae6"
+  },
+  "city": "Netanya"
+},{
+  "_id": {
+    "$oid": "6297ad944b21a896d2a9fae8"
+  },
+  "city": "Arad"
+},{
+  "_id": {
+    "$oid": "6297adc54b21a896d2a9faea"
+  },
+  "city": "Tiberias "
+},{
+  "_id": {
+    "$oid": "6297ade04b21a896d2a9faec"
+  },
+  "city": "Ashdod"
+}]

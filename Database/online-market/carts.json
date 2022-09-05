@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "62ef6aea2f2a4e3e2aa8374a"
+  },
+  "user_id": {
+    "$oid": "62e267350ad167922fe9ecb6"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659857642984"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659857642984"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62f0e8db55e70e87b94baada"
+  },
+  "user_id": {
+    "$oid": "62efb0f091ab4992f47fb0e8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659955419915"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659955419915"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62f0e93f55e70e87b94baaf2"
+  },
+  "user_id": {
+    "$oid": "62f0e93855e70e87b94baaeb"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659955519582"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659955519582"
+    }
+  }
+}]

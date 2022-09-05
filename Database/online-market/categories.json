@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "62960f7e4b21a896d2a9face"
+  },
+  "name": "Dairy"
+},{
+  "_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "name": "Fruit & Veg"
+},{
+  "_id": {
+    "$oid": "62a0bbf07730d489c1d82e45"
+  },
+  "name": "Beverages"
+},{
+  "_id": {
+    "$oid": "62a0bc287730d489c1d82e47"
+  },
+  "name": "Bakery"
+}]

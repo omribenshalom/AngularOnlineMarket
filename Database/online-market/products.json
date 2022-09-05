@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "62ebde5441f25c610ab956ad"
+  },
+  "name": "Honey",
+  "price": 12,
+  "category_id": {
+    "$oid": "62a0bc287730d489c1d82e47"
+  },
+  "imageName": "c2a2aaba-6cce-43e3-b209-7ff414016296.jpg"
+},{
+  "_id": {
+    "$oid": "62ebde6241f25c610ab956b0"
+  },
+  "name": "Tomato",
+  "price": 3,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "728b0417-15f3-4469-a0e7-b8c88be7e67b.jpg"
+},{
+  "_id": {
+    "$oid": "62ebde8441f25c610ab956b9"
+  },
+  "name": "Wine",
+  "price": 6.2,
+  "category_id": {
+    "$oid": "62a0bbf07730d489c1d82e45"
+  },
+  "imageName": "a391bf90-1357-4f71-b79a-49989e14693c.jpg"
+},{
+  "_id": {
+    "$oid": "62ebde9841f25c610ab956bc"
+  },
+  "name": "Cheese",
+  "price": 2.2,
+  "category_id": {
+    "$oid": "62960f7e4b21a896d2a9face"
+  },
+  "imageName": "64eff827-0f43-4fc6-b34e-c287cab5aead.jpg"
+},{
+  "_id": {
+    "$oid": "62ebded141f25c610ab956bf"
+  },
+  "name": "Beer Alexander",
+  "price": 3.5,
+  "category_id": {
+    "$oid": "62a0bbf07730d489c1d82e45"
+  },
+  "imageName": "70408fb2-ce55-4d9f-9a5d-bd2086a92cc0.jpg"
+},{
+  "_id": {
+    "$oid": "62ebdefa41f25c610ab956c5"
+  },
+  "name": "Brown eggs",
+  "price": 2.4,
+  "category_id": {
+    "$oid": "62960f7e4b21a896d2a9face"
+  },
+  "imageName": "6f724302-74de-4399-b33f-4a6b67fae2de.jpg"
+},{
+  "_id": {
+    "$oid": "62ebdf2c41f25c610ab956ca"
+  },
+  "name": "Green Apple",
+  "price": 3.5,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "f4ef1d2b-1f68-497d-be02-5bd2bc1b021b.jpg"
+},{
+  "_id": {
+    "$oid": "62efcc0755e70e87b94ba51e"
+  },
+  "name": "Red Apple",
+  "price": 3,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "db41404f-50fe-4b7b-9aa9-0892b2af8414.jpg"
+},{
+  "_id": {
+    "$oid": "62efcc2855e70e87b94ba523"
+  },
+  "name": "Bananas",
+  "price": 2,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "27362945-a7fd-4788-aca6-1a68b95104fc.jpg"
+},{
+  "_id": {
+    "$oid": "62efcc4555e70e87b94ba526"
+  },
+  "name": "Broccoli",
+  "price": 4,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "7a36554c-5e0c-4dd0-b6e5-53af691cd3d8.jpg"
+},{
+  "_id": {
+    "$oid": "62efcc7055e70e87b94ba52e"
+  },
+  "name": "Avocado",
+  "price": 3.4,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "0603da80-07bc-4f7f-bfd5-aff371e084b8.jpg"
+},{
+  "_id": {
+    "$oid": "62efcc8255e70e87b94ba531"
+  },
+  "name": "Milk",
+  "price": 1.8,
+  "category_id": {
+    "$oid": "62960f7e4b21a896d2a9face"
+  },
+  "imageName": "9fb46e9b-5365-4290-bb73-e2d47db5adc7.jpg"
+},{
+  "_id": {
+    "$oid": "62efcca355e70e87b94ba53c"
+  },
+  "name": "Baguettes",
+  "price": 3,
+  "category_id": {
+    "$oid": "62a0bc287730d489c1d82e47"
+  },
+  "imageName": "b223b6fe-449e-4ef3-8cb0-86c1d888e727.jpg"
+},{
+  "_id": {
+    "$oid": "62efccbb55e70e87b94ba53f"
+  },
+  "name": "Jewish Bread",
+  "price": 4,
+  "category_id": {
+    "$oid": "62a0bc287730d489c1d82e47"
+  },
+  "imageName": "54e64107-fb99-4dd8-a680-bf1e9f4d4e41.jpg"
+},{
+  "_id": {
+    "$oid": "62efccd455e70e87b94ba542"
+  },
+  "name": "Pineapple",
+  "price": 5,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "005e715c-4d35-486d-9c28-61e68a0d1bad.jpg"
+},{
+  "_id": {
+    "$oid": "62efccec55e70e87b94ba545"
+  },
+  "name": "Onions",
+  "price": 2.2,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "26ffcace-ecad-4466-ad8d-e48e7b05fa8b.jpg"
+},{
+  "_id": {
+    "$oid": "62efccfa55e70e87b94ba548"
+  },
+  "name": "Grapes",
+  "price": 5,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "e3103296-54f2-47f9-b179-3162e371c4b7.jpg"
+},{
+  "_id": {
+    "$oid": "62efcd0e55e70e87b94ba54b"
+  },
+  "name": "Watermelom",
+  "price": 7,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "660f0dac-c3a2-4713-8860-8c64600159ea.jpg"
+},{
+  "_id": {
+    "$oid": "62efcd2255e70e87b94ba54e"
+  },
+  "name": "Guiness",
+  "price": 8.5,
+  "category_id": {
+    "$oid": "62a0bbf07730d489c1d82e45"
+  },
+  "imageName": "055c38fc-6048-4802-8313-d14e38198f30.png"
+},{
+  "_id": {
+    "$oid": "62f0e96b55e70e87b94bab06"
+  },
+  "name": "Kiwi",
+  "price": 7,
+  "category_id": {
+    "$oid": "62960f8b4b21a896d2a9fad0"
+  },
+  "imageName": "f09b6393-5fc1-425d-81a5-7a87c6b75306.jpg"
+}]
